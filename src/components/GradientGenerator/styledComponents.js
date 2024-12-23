@@ -19,6 +19,7 @@ export const GeneratorHeading = styled.h1`
   font-family: sans-serif;
   font-size: 30px;
   color: #ffffff;
+  text-align:center
 `
 
 export const DirectionHeading = styled.p`
