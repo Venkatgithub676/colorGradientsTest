@@ -16,7 +16,7 @@ export const DirectionItems = styled.button`
   height: 40px;
   width: 100%;
   font-weight: bold;
-  font-family: 'Bree serif';
+  font-family: 'Bree Serif';
   cursor: pointer;
   opacity: ${props => (props.activeBtn ? 1 : 0.5)};
 `
