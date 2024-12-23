@@ -16,7 +16,7 @@ export const BgCon = styled.div`
   padding: 20px 50px 20px 50px;
 `
 export const GeneratorHeading = styled.h1`
-  font-family: Roboto;
+  font-family: Sans Serif;
   font-size: 30px;
   color: #ffffff;
 `
@@ -24,7 +24,7 @@ export const GeneratorHeading = styled.h1`
 export const DirectionHeading = styled.p`
   color: #ededed;
   font-size: 20px;
-  font-family: Roboto;
+  font-family: Sans Serif;
 `
 
 export const DivCon = styled.ul`
@@ -41,7 +41,7 @@ export const DivCon = styled.ul`
 `
 
 export const PickColors = styled.p`
-  font-family: Roboto;
+  font-family: Sans Serif;
   color: #ededed;
   font-size: 25px;
   margin-top: 40px;
@@ -65,7 +65,7 @@ export const InternalCon = styled.div`
 `
 
 export const FirstColorHeading = styled.p`
-  font-family: Roboto;
+  font-family: Sans Serif;
   font-size: 20px;
   color: #ffffff;
 `
@@ -80,7 +80,7 @@ export const GenerateBtn = styled.button`
   background-color: #00c9b7;
   width: 150px;
   height: 40px;
-  font-family: Roboto;
+  font-family: Sans Serif;
   cursor: pointer;
   border: none;
   border-radius: 10px;
